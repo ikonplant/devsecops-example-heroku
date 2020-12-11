@@ -150,3 +150,4 @@ This will create your own copy of the code repository and redirect you to the re
 
 - To resolve the Cross-Site-Scripting vulnerability open the file `devsecops-example-heroku/vulnerable/templates/index.html` and remove the pipe `| safe` in line 4.
 - Now you should get a successful build again and have a much more secure application than before.
+
