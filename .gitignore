@@ -140,3 +140,5 @@ override.tf.json
 
 ### Repository Specific ###
 terraform-account.json
+
+.idea/
